@@ -3,7 +3,7 @@ import qrcode
 from telebot import types
 from gtts import gTTS
 
-bot = telebot.TeleBot('5201486189:AAE6JN4Z767FBIHC2qUIsRvqJBDna2DVn-8')
+bot = telebot.TeleBot('5181806164:AAHM5OBoWHzpvBzXlTav2uQpzkPNHtFR1II')
 
 @bot.message_handler(commands=['start']) 
 def start(message):
